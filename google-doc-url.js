@@ -2,4 +2,4 @@
 var googleDocURL = null;
 
 // insert your own Google Sheets API key from https://console.developers.google.com
-var googleApiKey = 'AIzaSyDvGeXaBgfdBl5O-ClWRlDTrcLqTjPJjYQ';
+var googleApiKey = null;
