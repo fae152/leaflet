@@ -4,7 +4,7 @@ Customize Leaflet maps with a linked Google Sheets template or CSV files and Geo
 ![Preview](preview.jpg)
 
 ## Live links (replace with your own)
-- Leaflet Map https://github.com/fae152/leaflet
+- Leaflet Map https://fae152.github.io/leaflet/
 - Google Sheets template https://docs.google.com/spreadsheets/d/1y0IWTukXNpBAJKe5gY0JUdFxYzxrVx4hA5F4KpoYu9k/edit?gid=0#gid=0
 
 ## Create your own
